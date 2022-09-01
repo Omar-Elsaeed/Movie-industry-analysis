@@ -1,0 +1,5 @@
+first we cleaning this data 
+1 - change the data type in some column
+2 - change the column spilite
+3 - make some paviot taples
+4 - make Data cleaning by power bi 
